@@ -1,0 +1,12 @@
+Usando Cores em Bootstrap
+
+Para usar cores no bootstrap precisamos inserir elas com classes tbm, utilizando color ou bg color
+
+    <p class="h3 text-muted">Muted</p>
+
+Para aplicar cores em textos basta usar o elemento (text) em que vc quer aplicar e a cores (success) por exemplo
+
+Para aplicar diferentes cores em varios elementos é so mudar o elemento
+
+    <p class="h3 bg-primary">Test</p> -> Vai colocar o background-color de primary
+
