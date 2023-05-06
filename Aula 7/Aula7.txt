@@ -1,0 +1,19 @@
+Classes para tabelas em bootstrap [Tabelas Bootstrap]
+
+Depois e construir uma tabela, vamos aplicar nossos conhecimentos de bootstrap
+
+basta eu ir no elemento tabela, e colocar a classe "table" -> Essa é a formatação padrao de tabela do bootstrap
+
+Podemos aplicar varias opcoes:
+
+Posso colocar cores como :
+
+    table-(cor q vc quer)
+
+posso usar classe table emcima de outras classes table:
+
+    table table-striped -> para fazer o efeito zebrado
+    table table-hover -> para fazer o efeito escurer durante vc passando o mouse
+
+Entre varios outros tipos de combinações que se pode fazer com tabelas
+    
