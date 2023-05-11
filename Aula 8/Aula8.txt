@@ -1,0 +1,9 @@
+Classes para Imagens em bootstrap Imagens Bootstrap
+
+Vamos ter uma imagem normal no nosso arquivo e vamos aplicar classes para melhorar essa imagem
+
+por exemplo classes de tamanho
+
+    class="w-25" -> width de 25
+
+basicamente vc pode modificar qualquer coisa da classe usando as medidas certas.
